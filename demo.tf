@@ -4,7 +4,7 @@ variable "region" {
     default = "uk-london-1"
 }
 variable "bucket_namespace" {
-    default = "orseemeaukcore"
+    default = "oraseemeaukcore"
 }
 variable "bucket_name" {
     default = "resource_manager_demo_bucket"
