@@ -7,7 +7,7 @@ variable "bucket_namespace" {
     default = "oraseemeaukcore"
 }
 variable "bucket_name" {
-    default = "resource_manager_demo_bucket"
+    default = "resource_manager_demo_bucket_benh"
 }
 
 provider "oci" {
